@@ -1,4 +1,4 @@
-Decoder
+# Decoder
 
 Given a one-word string via the command-line, prints all instances of strings
 within a device's dictionary matching the pattern of characters.
