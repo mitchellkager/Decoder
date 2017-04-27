@@ -115,7 +115,7 @@ public class Decoder
                 // returns false if two characters are inequal in one string
                 // where they're equal in the other
                 if ((str1.charAt(i) == str1.charAt(j)) !=
-                     str2.charAt(i) == str2.charAt(j)) {
+                    (str2.charAt(i) == str2.charAt(j))) {
                     return false;
                 }
             }
