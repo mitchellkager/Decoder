@@ -8,8 +8,7 @@ import java.io.IOException;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Decoder
-{
+public class Decoder {
     /* 
      * Reads pattern source from command-line, exiting if none passed.
      * Print all strings from implied dictionary (or dictionary from second
